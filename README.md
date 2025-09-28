@@ -21,7 +21,22 @@ Execution
 
 3.Run the script: python text_classification.py.
 
-4.Verification (for Screenshot Capture):
+Verification (for Screenshot Capture):
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-28 214746" src="https://github.com/user-attachments/assets/f02a0138-e687-467f-aa9e-fec5dd6d7b44" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-28 214649" src="https://github.com/user-attachments/assets/6a373a4f-7cc9-4f02-9767-59a0946d3000" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-28 214700" src="https://github.com/user-attachments/assets/70d4305b-75b8-4eb8-89a3-bc35aa67f24c" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-28 214710" src="https://github.com/user-attachments/assets/b9113122-447b-444e-95ba-fbc44d19c84e" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-28 214722" src="https://github.com/user-attachments/assets/86cc6d67-1f60-4249-ba71-b7a6a9462911" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-28 214736" src="https://github.com/user-attachments/assets/acd123da-c7c6-4bcf-b1d0-09e30dbbd962" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-28 214746" src="https://github.com/user-attachments/assets/6980f158-6546-465e-80a7-145d4d3ca68b" />
+
+
+
+
+
 
